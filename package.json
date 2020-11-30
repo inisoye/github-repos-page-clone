@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "rimraf ./development && rimraf -rf ./.cache",
     "dev": "npm run clean && parcel public/index.html --out-dir development -p 3000",
-    "build": "parcel build public/*.html --out-dir dist --public-url ./"
+    "build": "NODE_ENV=production parcel build public/*.html --out-dir dist --public-url ./"
   },
   "keywords": [],
   "author": "",
