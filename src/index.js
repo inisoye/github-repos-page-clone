@@ -4,6 +4,8 @@
   /* Generic Variables
   --------------------------------------------------------------*/
 
+  console.log(process.env.GITHUB_TOKEN);
+
   // ----- DOM Elements -----
   const preloader = document.querySelector('.preloader');
   const pageContainer = document.querySelector('.container');
