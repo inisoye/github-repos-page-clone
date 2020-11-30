@@ -403,7 +403,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 h2 {
@@ -758,7 +758,7 @@ p {
   color: #ffffff;
   display: block;
   font-size: 1.4rem;
-  font-weight: 700;
+  font-weight: 600;
   height: 38px;
   padding: 8px 0;
   white-space: nowrap;
@@ -966,7 +966,7 @@ p {
 }
 
 .header-dropdown-link .username-text {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 /*--------------------------------------------------------------
@@ -1322,7 +1322,7 @@ p {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .main-nav-link--selected:hover {
@@ -1415,7 +1415,7 @@ p {
 }
 
 .repo-search__desc strong {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 /*--------------------------------------------------------------
@@ -1531,7 +1531,7 @@ p {
   border: rgba(27, 31, 35, 0.15) 1px solid;
   border-radius: 6px;
   font-size: 1.2rem;
-  font-weight: 600;
+  font-weight: 500;
   min-width: 72px;
   padding: 5px 12px;
 }
