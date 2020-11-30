@@ -321,6 +321,7 @@ main {
 /* Remove IOS input style */
 input,
 input[type='email'],
+input[type='search'],
 input[type='text'],
 input[type='tel'],
 input[type='password'],
