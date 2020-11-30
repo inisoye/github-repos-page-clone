@@ -319,6 +319,7 @@ main {
 }
 
 /* Remove IOS input style */
+input,
 input[type='email'],
 input[type='text'],
 input[type='tel'],
