@@ -330,7 +330,7 @@ textarea {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  font-size: 16px;
+  font-size: 1.4rem;
 }
 
 header,
@@ -1146,7 +1146,7 @@ p {
 
 .avatar__status--desktop:hover .avatar-status__text {
   display: inline-block;
-  font-size: 12px;
+  font-size: 1.2rem;
 }
 
 .avatar__link {
@@ -1168,7 +1168,7 @@ p {
 }
 
 .avatar-status__text--desktop {
-  font-size: 12px;
+  font-size: 1.2rem;
   white-space: nowrap;
 }
 
